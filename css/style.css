@@ -100,3 +100,20 @@ footer{
     background-color: rgb(168, 168, 168);
     height: 400px;
 }
+
+.connectTitle{
+    margin-top: 6%;
+    margin-left: 3%;
+    display: inline-block;
+
+}
+
+.connect{
+   
+    display: block;
+}
+
+.connectIcon{
+    width: 20px;
+    vertical-align:text-top;
+}
