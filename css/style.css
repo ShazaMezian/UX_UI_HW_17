@@ -1,3 +1,7 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .logo{
     width: 40%;
     display: inline-block;
@@ -48,4 +52,51 @@ hr{
 header{
     padding: 0px;
     margin: 2%;
+}
+
+.margin{
+    margin: 3%;
+}
+
+.intro{
+    width:50%;
+    float:left;
+    
+}
+
+.personalImg{
+    /* width:46%; */
+    width: 700px;
+    margin:0 auto;
+    
+}
+
+.shazaImg{
+    width: 50%;
+    position: static;
+    float: right;
+    margin-right: 30%;
+}
+
+h1{
+    font-size: 60px;
+    line-height: 20px;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+button{
+    border: 0px solid;
+    padding: 20px;
+    background-color: rgb(97, 97, 97);
+    color: white;
+    font-size: 16px;
+}
+
+footer{
+    background-color: rgb(168, 168, 168);
+    height: 400px;
 }
