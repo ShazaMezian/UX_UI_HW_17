@@ -1,3 +1,18 @@
 .logo{
     width: 600px;
+    display: inline-block;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+hr{
+    color: #C8C8C8;
+    background-color: #C8C8C8;
+    display: block;
 }
